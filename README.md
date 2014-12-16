@@ -1,3 +1,5 @@
+# IMPORTANT: This code base does NOT work. You will need to majorly refactor it to get it to work for you needs.
+
 # Welcome to the Facebook CFML SDK
 As of 29/07/2014 this project has been transferred from the stewardship of [Benoit](http://www.twitter.com/benorama) into [my ownership](http://www.twitter.com/AgentK) and is active again. Working with me on this is [Ross](http://www.twitter.com/fingersdacing) and this work is kindly supported by one of our clients. Other 3rd-party contributions and suggestions are very welcome.
 
